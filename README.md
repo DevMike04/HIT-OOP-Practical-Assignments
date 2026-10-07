@@ -1,1 +1,3 @@
-# HIT-OOP-Repository
+Michael Kudakwashe Zvarevashe
+H250466A
+Software Engineering
